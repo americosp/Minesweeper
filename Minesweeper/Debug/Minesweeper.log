@@ -1,0 +1,94 @@
+﻿  main.cpp
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(270): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(277): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(281): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(307): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(313): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(316): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(319): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(330): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(463): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(621): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(785): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(789): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(792): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(795): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(798): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(801): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(805): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(814): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(829): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(835): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(841): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(843): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(849): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(851): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(857): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(859): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(865): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(867): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(873): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(875): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(881): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(883): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(889): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(891): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(897): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(899): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(903): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(907): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(929): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(936): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(940): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(944): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(946): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(950): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(952): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(956): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(958): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(962): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(964): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(968): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(970): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(974): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(976): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(980): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(982): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(986): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(988): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(992): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(996): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aerot\desktop\c++ projects\minesweeper\minesweeper\main.cpp(15): warning C4101: 'startingBoard': unreferenced local variable
+  Minesweeper.vcxproj -> C:\Users\aerot\Desktop\C++ Projects\Minesweeper\Debug\Minesweeper.exe
